@@ -80,5 +80,4 @@ Check out the full query file in this repo and explore the SQL logic step-by-ste
 
 **Vansh Choubey**  
 PL-300 Certified | Data Analyst  
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/your-link-here)  
-🌐 Visit my [Portfolio Website](https://yourwebsite.com)
+📫 Connect with me on [LinkedIn](http://www.linkedin.com/in/vansh-choubey-a23083223)  
